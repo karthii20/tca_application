@@ -1,0 +1,10 @@
+[
+    {
+        "username": "karthi",
+        "password": "scrypt:32768:8:1$hNduRMS6etGpNl4E$d2683714aed9f33b49bd90790ba6d1b6b6825dbeeef509e440ad62bbc8f84ab74b2da0037245fc7b76f3678e2889b99acaac74004029e80f0d753acc71aba84f"
+    },
+    {
+        "username": "kumar",
+        "password": "scrypt:32768:8:1$xeytsX5yfdzHZebh$138d7567367bfb0d2d1fe848bcde7dc10b668af6cf3db643201d1d1b707fed06784c0d090eed3c616df65d9e3c0b2b1f96beb805bf8405515f612f1e62fc4e68"
+    }
+]

@@ -1,0 +1,13 @@
+{
+    "hosting": {
+      "rewrites": [
+        {
+          "source": "/api/**",
+          "run": {
+            "serviceId": "tca-application-6534e"
+          }
+        }
+      ]
+    }
+  }
+  

@@ -1,0 +1,2 @@
+streamlit run your_main_file.py --server.port $PORT --server.address 0.0.0.0
+
